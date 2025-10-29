@@ -95,8 +95,8 @@
 </section>
 
 <section id="contact">
-  <h2>Contact</h2>
-  <p>Phone / WhatsApp: (Add later)</p>
+  <h2>Contact</h2>ig-aedriccsuryya
+  <p>Phone / WhatsApp: (wa.me/9311646189)</p>
   <p>Visit us at: G22H+JG7 Gurugram, Haryana</p>
 </section>
 
